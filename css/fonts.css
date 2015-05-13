@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "HelveticaNeueLTW1GRoman";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/HelveticaNeueLTW1GRoman/HelveticaNeueLTW1G-Roman.eot?#iefix") format("embedded-opentype"), 
+  url("../fonts/HelveticaNeueLTW1GRoman/HelveticaNeueLTW1G-Roman.woff") format("woff"), 
+  url("../fonts/HelveticaNeueLTW1GRoman/HelveticaNeueLTW1G-Roman.ttf") format("truetype"); 
+}
+
+@font-face {
+  font-family: "HarmoniaSansProCyr";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../fonts/HarmoniaSansProCyr/HarmoniaSansProCyr-Italic.eot?#iefix") format("embedded-opentype"), 
+  url("../fonts/HarmoniaSansProCyr/HarmoniaSansProCyr-Italic.woff") format("woff"), 
+  url("../fonts/HarmoniaSansProCyr/HarmoniaSansProCyr-Italic.ttf") format("truetype"); 
+}
+
+
+
